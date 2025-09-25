@@ -1,0 +1,1 @@
+{ "name": "mindboost-server", "version": "0.1.0", "main": "index.js", "license": "MIT", "dependencies": { "express": "^4.18.2" }, "scripts": { "start": "node index.js", "dev": "nodemon index.js" } }
